@@ -1,0 +1,4 @@
+piperead
+========
+
+bash stdin.sh | go run .
